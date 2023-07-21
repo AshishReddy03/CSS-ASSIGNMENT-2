@@ -1,0 +1,296 @@
+.zomato {
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.card {
+    width: 600px;
+    height: 650px;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    margin: 20px auto;
+    box-shadow: 10px 10px 10px 10px lightgray;
+}
+
+.card-img {
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    position: relative;
+}
+
+.promoted {
+    padding: 3px 7px;
+    width: 80px;
+    background-color: aqua;
+    padding-left: 5px;
+    position: absolute;
+    border-radius: 3px;
+    background-color: gray;
+    color: lightgray;
+    font-size: 15px;
+    top: 60px;
+    box-sizing: border-box;
+    margin-left: 40px;
+
+}
+
+.offer {
+    position: absolute;
+    width: fit-content;
+    background-color: #007FFF;
+    color: white;
+    padding: 0 10px;
+    font-size: 25px;
+    top: 400px;
+    margin-left: 15px;
+}
+
+.time {
+    width: fit-content;
+    position: absolute;
+    background-color: whitesmoke;
+    color: black;
+    top: 400px;
+    margin-left: 480px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.Center {
+    font-size: 30px;
+    font-weight: 500;
+    position: relative;
+    left: 20px;
+    bottom: 30px;
+}
+
+.north {
+    position: relative;
+    left: 20px;
+    bottom: 50px;
+    color: gray;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.border {
+    border-top: 1px solid lightgray;
+    position: relative;
+    bottom: 50px;
+}
+
+.safety {
+    width: 80px;
+    position: relative;
+    bottom: 40px;
+    left: 20px;
+}
+
+.terms {
+    position: relative;
+    left: 110px;
+    bottom: 90px;
+    font-size: 22px;
+    color: gray;
+    font-weight: 400;
+    box-sizing: border-box;
+}
+
+.follow {
+    padding: 100px;
+    position: relative;
+    bottom: 110px;
+    right: 80px;
+}
+
+.card-1 {
+    width: 600px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bali-img {
+    width: 100%;
+    margin: 150px 420px;
+    border-radius: 20px;
+
+}
+
+.info {
+    width: fit-content;
+    position: relative;
+    bottom: 400px;
+    left: 420px
+}
+
+.card1-title {
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 30px;
+    position: relative;
+    bottom: 20px;
+}
+
+.card1-info {
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 0 20px;
+    position: relative;
+    bottom: 10px;
+}
+
+.info-mid {
+    color: black;
+    margin-left: 70px;
+    position: relative;
+    bottom: 20px;
+    font-weight: 400;
+
+}
+
+.card1-btn {
+    margin-left: 40%;
+    position: relative;
+    bottom: 20px;
+    border-radius: 20px;
+    font-size: 14px;
+    padding: 12px 26px;
+    border: none;
+
+
+}
+
+.card-3 {
+    width: 800px;
+    margin: 100px auto;
+}
+
+.card3-img {
+    width: 100%;
+    height: 250px;
+}
+
+.navi {
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    background-color: white;
+    position: relative;
+    bottom: 230px;
+    left: 140px;
+
+}
+
+.location {
+    width: 15px;
+    position: relative;
+    top: 8px;
+    left: 10px;
+}
+
+.lucknow {
+    color: gray;
+    position: relative;
+    bottom: 20px;
+    left: 40px;
+    font-size: 11px;
+}
+
+.arrow {
+    width: 10px;
+    position: relative;
+    left: 150px;
+    bottom: 47px;
+}
+
+.line {
+    border-left: 1px solid lightgray;
+    height: 20px;
+    position: relative;
+    left: 180px;
+    bottom: 82px;
+}
+
+.search {
+    width: 15px;
+    position: relative;
+    left: 190px;
+    bottom: 116px;
+}
+
+.card3-title {
+    font-size: 35px;
+    position: relative;
+    bottom: 215px;
+    letter-spacing: 1px;
+    left: 340px;
+    color: white;
+    font-family: serif;
+}
+
+.details {
+    color: gray;
+    font-size: 10px;
+    font-weight: 100;
+    position: relative;
+    left: 230px;
+    bottom: 143px;
+
+}
+
+.discover {
+    position: relative;
+    bottom: 230px;
+    color: white;
+    font-size: large;
+    left: 210px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.card4 {
+    width: 400px;
+    border: 1px solid lightgray;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin: 100px auto;
+    height: 350px;
+}
+
+.pic1 {
+    width: 100%;
+    height: 100px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.pic2 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 50px;
+    left: 150px;
+    border: 3px solid white;
+}
+
+.card4-title {
+    font-size: 40px;
+    position: relative;
+    bottom: 40px;
+    text-align: center;
+}
+
+.card4-info {
+    font-size: 30px;
+    color: gray;
+    position: relative;
+    bottom: 50px;
+    text-align: center;
+}
